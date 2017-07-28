@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WMSDBModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="WMSDBEntities" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+    <EntitySet Name="Classifications" EntityType="WMSDBModel.Classification" />
+    <EntitySet Name="Employees" EntityType="WMSDBModel.Employee" />
+    <AssociationSet Name="FK_Employees_Classifications" Association="WMSDBModel.FK_Employees_Classifications">
+      <End Role="Classifications" EntitySet="Classifications" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <EntitySet Name="EmpTimesheets" EntityType="WMSDBModel.EmpTimesheet" />
+    <AssociationSet Name="FK_EmpTimesheet_Employees" Association="WMSDBModel.FK_EmpTimesheet_Employees">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="EmpTimesheet" EntitySet="EmpTimesheets" />
+    </AssociationSet>
+    <EntitySet Name="EmpTimesheetsSummaries" EntityType="WMSDBModel.EmpTimesheetsSummary" />
+    <AssociationSet Name="FK_EmpTimesheetsSummary_EmpTimesheets" Association="WMSDBModel.FK_EmpTimesheetsSummary_EmpTimesheets">
+      <End Role="EmpTimesheet" EntitySet="EmpTimesheets" />
+      <End Role="EmpTimesheetsSummary" EntitySet="EmpTimesheetsSummaries" />
+    </AssociationSet>
+    <FunctionImport Name="Get_WeekNo" ReturnType="Collection(WMSDBModel.Get_WeekNo_Result)">
+      <Parameter Name="Year" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="Get_Years" ReturnType="Collection(Int32)" />
+    <FunctionImport Name="Get_Employees" ReturnType="Collection(WMSDBModel.Get_Employees_Result1)" />
+  </EntityContainer>
+  <EntityType Name="Classification">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Award" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="MealAllowanceAmount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="MealAllowanceDue" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="MonToFriFirst2HoursRate" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="MonToFriGraterThan2HoursRate" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SatTeaMoney" Type="String" MaxLength="1" Unicode="false" FixedLength="false" />
+    <Property Name="SunAllHours" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SunTeaMoney" Type="String" MaxLength="1" Unicode="false" FixedLength="false" />
+    <Property Name="GoodFridayorXmasRate" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="AllOtherPubHolidays" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="WorkingHours" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="PayRate" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="Employees" Relationship="WMSDBModel.FK_Employees_Classifications" FromRole="Classifications" ToRole="Employees" />
+    <Property Type="Decimal" Name="SatFirst2Hours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatAfter2Hours" Precision="18" Scale="2" />
+    <Property Type="Boolean" Name="Active" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Name="FirstName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" Nullable="true" />
+    <Property Name="LastName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="HireDate" Type="DateTime" Nullable="true" />
+    <Property Name="Job" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Sex" Type="String" MaxLength="1" Unicode="false" FixedLength="false" />
+    <Property Name="BirthDate" Type="DateTime" Nullable="true" />
+    <Property Name="ClassificationId" Type="Int32" />
+    <Property Name="IsActive" Type="Int32" />
+    <NavigationProperty Name="Classification" Relationship="WMSDBModel.FK_Employees_Classifications" FromRole="Employees" ToRole="Classifications" />
+    <NavigationProperty Name="EmpTimesheets" Relationship="WMSDBModel.FK_EmpTimesheet_Employees" FromRole="Employee" ToRole="EmpTimesheet" />
+    <Property Type="Int32" Name="IsLeadHandA" />
+    <Property Type="Int32" Name="IsFirstAidA" />
+    <Property Type="Int32" Name="SortBy" />
+    <Property Type="String" Name="ShortName" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_Employees_Classifications">
+    <End Role="Classifications" Type="WMSDBModel.Classification" Multiplicity="0..1" />
+    <End Role="Employees" Type="WMSDBModel.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Classifications">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="ClassificationId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="EmpTimesheet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="EmpId" />
+    <Property Type="Decimal" Name="MonTimeIn" />
+    <Property Type="Decimal" Name="MonTimeOut" />
+    <Property Type="Decimal" Name="TueTimeIn" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="TueTimeOut" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="WedTimeIn" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="WedTimeOut" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="ThuTimeIn" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="ThuTimeOut" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FriTimeIn" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FriTimeOut" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatTimeIn" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatTimeOut" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SunTimeIn" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SunTimeOut" Precision="18" Scale="2" />
+    <NavigationProperty Name="Employee" Relationship="WMSDBModel.FK_EmpTimesheet_Employees" FromRole="EmpTimesheet" ToRole="Employee" />
+    <NavigationProperty Name="EmpTimesheetsSummaries" Relationship="WMSDBModel.FK_EmpTimesheetsSummary_EmpTimesheets" FromRole="EmpTimesheet" ToRole="EmpTimesheetsSummary" />
+    <Property Type="Int32" Name="WeekNo" />
+    <Property Type="Int32" Name="DateYear" />
+  </EntityType>
+  <Association Name="FK_EmpTimesheet_Employees">
+    <End Type="WMSDBModel.Employee" Role="Employee" Multiplicity="0..1" />
+    <End Type="WMSDBModel.EmpTimesheet" Role="EmpTimesheet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmpTimesheet">
+        <PropertyRef Name="EmpId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="EmpTimesheetsSummary">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="TimesheetID" Nullable="false" />
+    <Property Type="Int32" Name="EmpId" Nullable="false" />
+    <Property Type="Decimal" Name="MonTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="MonNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="MonOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="MonDoubleHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="TueTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="TueNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="TueOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="TueDoubleHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="WedTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="WedNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="WedOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="WedDoubleHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="ThuTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="ThuNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="ThuOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="ThuDoubleHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FriTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FriNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FriOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FriDoubleHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SatDoubleHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SunTotal" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SunNormalHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SunOTHours" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="SunDoubleHours" Precision="18" Scale="2" />
+    <NavigationProperty Name="EmpTimesheet" Relationship="WMSDBModel.FK_EmpTimesheetsSummary_EmpTimesheets" FromRole="EmpTimesheetsSummary" ToRole="EmpTimesheet" />
+    <Property Type="Int32" Name="WeekNo" />
+    <Property Type="Int32" Name="DateYear" />
+    <Property Type="Decimal" Name="MealAllow" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="LeadHandAllow" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="FirstAidAllow" Precision="18" Scale="2" />
+  </EntityType>
+  <Association Name="FK_EmpTimesheetsSummary_EmpTimesheets">
+    <End Type="WMSDBModel.EmpTimesheet" Role="EmpTimesheet" Multiplicity="1" />
+    <End Type="WMSDBModel.EmpTimesheetsSummary" Role="EmpTimesheetsSummary" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EmpTimesheet">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmpTimesheetsSummary">
+        <PropertyRef Name="TimesheetID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="Get_WeekNo_Result">
+    <Property Type="String" Name="Week" Nullable="false" MaxLength="6" />
+    <Property Type="Int32" Name="WeekNo" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="Get_Employees_Result">
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="101" />
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="Int32" Name="Sort" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="Get_Employees_Result1">
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="101" />
+    <Property Type="String" Name="Id" Nullable="true" MaxLength="30" />
+    <Property Type="Int32" Name="Sort" Nullable="false" />
+  </ComplexType>
+</Schema>

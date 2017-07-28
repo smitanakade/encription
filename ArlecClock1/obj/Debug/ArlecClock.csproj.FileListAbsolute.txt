@@ -1,0 +1,63 @@
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecClock.csprojResolveAssemblyReference.cache
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\RdlCompile.cache
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\RdlCompile.compiled
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\obj\Debug\RdlCompile.cache
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\obj\Debug\RdlCompile.compiled
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ArlecClock.dll.config
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ArlecClock.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ArlecClock.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\AjaxMin.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\EntityFramework.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\EntityFramework.SqlServer.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\HtmlAgilityPack.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.Data.Edm.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.Data.OData.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\System.Spatial.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\EntityFramework.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\EntityFramework.SqlServer.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\HtmlAgilityPack.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\HtmlAgilityPack.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.Data.Edm.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.Data.OData.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\System.Spatial.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\de\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\es\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\fr\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\it\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ja\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ko\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\ru\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\obj\Debug\ArlecClock.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\obj\Debug\ArlecClock.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecClock\obj\Debug\ArlecClock.csprojResolveAssemblyReference.cache
+D:\arlec\tfs\ArlecClock\obj\Debug\ArlecClock.csprojResolveAssemblyReference.cache
+D:\arlec\tfs\ArlecClock\obj\Debug\RdlCompile.cache
+D:\arlec\tfs\ArlecClock\obj\Debug\RdlCompile.compiled
+D:\arlec\tfs\ArlecClock\obj\Debug\ArlecClock.dll
+D:\arlec\tfs\ArlecClock1\obj\Debug\ArlecClock.csprojResolveAssemblyReference.cache
+D:\arlec\tfs\ArlecClock1\obj\Debug\RdlCompile.cache
+D:\arlec\tfs\ArlecClock1\obj\Debug\RdlCompile.compiled
+D:\arlec\tfs\ArlecClock1\obj\Debug\ArlecClock.dll

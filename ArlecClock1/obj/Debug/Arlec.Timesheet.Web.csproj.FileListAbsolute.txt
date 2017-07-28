@@ -1,0 +1,304 @@
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\AjaxMin.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.OData.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\System.Spatial.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.pdb
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.OData.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\System.Spatial.xml
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\Arlec.Timesheet.Web.csprojResolveAssemblyReference.cache
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\AjaxMin.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.OData.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\System.Spatial.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.pdb
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.OData.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\System.Spatial.xml
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\RdlCompile.cache
+E:\Arlec TFS\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\RdlCompile.compiled
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\AjaxMin.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.OData.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\System.Spatial.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.pdb
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.OData.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\System.Spatial.xml
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\System.Spatial.resources.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\Arlec.Timesheet.Web.csprojResolveAssemblyReference.cache
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\RdlCompile.cache
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\RdlCompile.compiled
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+E:\JunyProjects\ArlecEmpTimesheetBkUp\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\AjaxMin.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.OData.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\System.Spatial.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.pdb
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.OData.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\System.Spatial.xml
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\System.Spatial.resources.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\RdlCompile.cache
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\RdlCompile.compiled
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb
+E:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\Arlec.Timesheet.Web.csprojResolveAssemblyReference.cache
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\AjaxMin.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.OData.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\System.Spatial.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.pdb
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\HtmlAgilityPack.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.Data.OData.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\System.Spatial.xml
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\de\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\es\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\fr\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\it\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ja\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ko\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\ru\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hans\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\bin\zh-Hant\System.Spatial.resources.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\Arlec.Timesheet.Web.csprojResolveAssemblyReference.cache
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\RdlCompile.cache
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\RdlCompile.compiled
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+D:\Arlec TFS\ArlecEmpTimesheet5FEB2014\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll.config
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\RdlCompile.cache
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\RdlCompile.compiled
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\AjaxMin.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.OData.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\System.Spatial.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\EntityFramework.SqlServer.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.pdb
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\HtmlAgilityPack.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.Edm.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.Data.OData.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\System.Spatial.xml
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\de\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\es\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\fr\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\it\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ja\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ko\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ru\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\smite.kagde\Documents\Visual Studio 2013\Projects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\Arlec.Timesheet.Web.csprojResolveAssemblyReference.cache

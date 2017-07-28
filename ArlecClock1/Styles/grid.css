@@ -1,0 +1,100 @@
+﻿.grid
+{
+	font-family:Arial;
+	font-size:12px;
+	width:800px;
+}
+/* gridview styles */
+.grid .gridview
+{
+	width:100%;
+	border:solid 2px #5E8CC6;
+	empty-cells:show;
+	border-top-width:1px;
+}
+.grid .gridview .row TD, 
+.grid .gridview .altrow TD,
+.grid .gridview .edit-info TD
+{
+	text-align:left;
+	padding:5px 4px;
+	border-top:solid 1px #E2EBF2;
+}
+.grid .gridview .edit-info TD
+{
+	border-top:dashed 1px #5E8CC6;
+    font-weight:bold;
+    color:#333;
+}
+.grid .gridview TR.first TD
+{
+	border-top:none;
+}
+.grid .gridview TD.edit
+{
+	border-bottom:dashed 1px #5E8CC6;
+}     
+.grid .gridview .edit-info A
+{
+    font-weight:normal;
+}        
+.grid .gridview .row TD.command, 
+.grid .gridview .altrow TD.command,
+.grid .edit-info TD.command
+{
+	text-align:center;
+}    
+.grid .gridview .header TH
+{
+	background:url(../img/hdr.gif) repeat-x;
+	height:22px;
+	line-height:22px;
+	color:#fff;
+	font-weight:bold;
+	text-align:left;
+	padding:0px 4px;
+}
+.grid .gridview .lightheader TH
+{
+	background:url(../img/hdr.gif) repeat-x;
+	height:22px;
+	line-height:22px;
+	color:#fff;
+	font-weight:bold;
+	text-align:left;
+	padding:0px 4px;
+	background-color:#5E8CC6;
+}
+
+.grid .gridview .edit
+{
+	padding:10px 5px;
+}
+.grid .gridview .edit,.grid .gridview .edit-info
+{
+	background-color:#F0F8FF;
+}    
+/* details styles */
+.grid .detailview
+{
+	width:100%;
+	empty-cells:show;
+}  
+.grid .detailview TH
+{
+	text-align:left;
+	padding:0px 10px;
+	color:#333;
+}    
+.grid .details .footer
+{
+	text-align:right;
+	padding:10px 10px 0px 0px;
+} 
+.grid .details .header
+{
+	text-align:left;
+	padding:0px 10px;
+	font-weight:bold;
+	display:none;
+} 

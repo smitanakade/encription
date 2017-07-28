@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WMSDBModelStoreContainer" CdmEntityContainer="WMSDBEntities">
+    <EntitySetMapping Name="Classifications">
+      <EntityTypeMapping TypeName="WMSDBModel.Classification">
+        <MappingFragment StoreEntitySet="Classifications">
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="SatAfter2Hours" ColumnName="SatAfter2Hours" />
+          <ScalarProperty Name="SatFirst2Hours" ColumnName="SatFirst2Hours" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Award" ColumnName="Award" />
+          <ScalarProperty Name="MealAllowanceAmount" ColumnName="MealAllowanceAmount" />
+          <ScalarProperty Name="MealAllowanceDue" ColumnName="MealAllowanceDue" />
+          <ScalarProperty Name="MonToFriFirst2HoursRate" ColumnName="MonToFriFirst2HoursRate" />
+          <ScalarProperty Name="MonToFriGraterThan2HoursRate" ColumnName="MonToFriGraterThan2HoursRate" />
+          <ScalarProperty Name="SatTeaMoney" ColumnName="SatTeaMoney" />
+          <ScalarProperty Name="SunAllHours" ColumnName="SunAllHours" />
+          <ScalarProperty Name="SunTeaMoney" ColumnName="SunTeaMoney" />
+          <ScalarProperty Name="GoodFridayorXmasRate" ColumnName="GoodFridayorXmasRate" />
+          <ScalarProperty Name="AllOtherPubHolidays" ColumnName="AllOtherPubHolidays" />
+          <ScalarProperty Name="WorkingHours" ColumnName="WorkingHours" />
+          <ScalarProperty Name="PayRate" ColumnName="PayRate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="WMSDBModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="ShortName" ColumnName="ShortName" />
+          <ScalarProperty Name="SortBy" ColumnName="SortBy" />
+          <ScalarProperty Name="IsFirstAidA" ColumnName="IsFirstAidA" />
+          <ScalarProperty Name="IsLeadHandA" ColumnName="IsLeadHandA" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="HireDate" ColumnName="HireDate" />
+          <ScalarProperty Name="Job" ColumnName="Job" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="ClassificationId" ColumnName="ClassificationId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmpTimesheets">
+      <EntityTypeMapping TypeName="WMSDBModel.EmpTimesheet">
+        <MappingFragment StoreEntitySet="EmpTimesheets">
+          <ScalarProperty Name="DateYear" ColumnName="DateYear" />
+          <ScalarProperty Name="WeekNo" ColumnName="WeekNo" />
+          <ScalarProperty Name="SunTimeOut" ColumnName="SunTimeOut" />
+          <ScalarProperty Name="SunTimeIn" ColumnName="SunTimeIn" />
+          <ScalarProperty Name="SatTimeOut" ColumnName="SatTimeOut" />
+          <ScalarProperty Name="SatTimeIn" ColumnName="SatTimeIn" />
+          <ScalarProperty Name="FriTimeOut" ColumnName="FriTimeOut" />
+          <ScalarProperty Name="FriTimeIn" ColumnName="FriTimeIn" />
+          <ScalarProperty Name="ThuTimeOut" ColumnName="ThuTimeOut" />
+          <ScalarProperty Name="ThuTimeIn" ColumnName="ThuTimeIn" />
+          <ScalarProperty Name="WedTimeOut" ColumnName="WedTimeOut" />
+          <ScalarProperty Name="WedTimeIn" ColumnName="WedTimeIn" />
+          <ScalarProperty Name="TueTimeOut" ColumnName="TueTimeOut" />
+          <ScalarProperty Name="TueTimeIn" ColumnName="TueTimeIn" />
+          <ScalarProperty Name="MonTimeOut" ColumnName="MonTimeOut" />
+          <ScalarProperty Name="MonTimeIn" ColumnName="MonTimeIn" />
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmpTimesheetsSummaries">
+      <EntityTypeMapping TypeName="WMSDBModel.EmpTimesheetsSummary">
+        <MappingFragment StoreEntitySet="EmpTimesheetsSummary">
+          <ScalarProperty Name="FirstAidAllow" ColumnName="FirstAidAllow" />
+          <ScalarProperty Name="LeadHandAllow" ColumnName="LeadHandAllow" />
+          <ScalarProperty Name="MealAllow" ColumnName="MealAllow" />
+          <ScalarProperty Name="DateYear" ColumnName="DateYear" />
+          <ScalarProperty Name="WeekNo" ColumnName="WeekNo" />
+          <ScalarProperty Name="SunDoubleHours" ColumnName="SunDoubleHours" />
+          <ScalarProperty Name="SunOTHours" ColumnName="SunOTHours" />
+          <ScalarProperty Name="SunNormalHours" ColumnName="SunNormalHours" />
+          <ScalarProperty Name="SunTotal" ColumnName="SunTotal" />
+          <ScalarProperty Name="SatDoubleHours" ColumnName="SatDoubleHours" />
+          <ScalarProperty Name="SatOTHours" ColumnName="SatOTHours" />
+          <ScalarProperty Name="SatNormalHours" ColumnName="SatNormalHours" />
+          <ScalarProperty Name="SatTotal" ColumnName="SatTotal" />
+          <ScalarProperty Name="FriDoubleHours" ColumnName="FriDoubleHours" />
+          <ScalarProperty Name="FriOTHours" ColumnName="FriOTHours" />
+          <ScalarProperty Name="FriNormalHours" ColumnName="FriNormalHours" />
+          <ScalarProperty Name="FriTotal" ColumnName="FriTotal" />
+          <ScalarProperty Name="ThuDoubleHours" ColumnName="ThuDoubleHours" />
+          <ScalarProperty Name="ThuOTHours" ColumnName="ThuOTHours" />
+          <ScalarProperty Name="ThuNormalHours" ColumnName="ThuNormalHours" />
+          <ScalarProperty Name="ThuTotal" ColumnName="ThuTotal" />
+          <ScalarProperty Name="WedDoubleHours" ColumnName="WedDoubleHours" />
+          <ScalarProperty Name="WedOTHours" ColumnName="WedOTHours" />
+          <ScalarProperty Name="WedNormalHours" ColumnName="WedNormalHours" />
+          <ScalarProperty Name="WedTotal" ColumnName="WedTotal" />
+          <ScalarProperty Name="TueDoubleHours" ColumnName="TueDoubleHours" />
+          <ScalarProperty Name="TueOTHours" ColumnName="TueOTHours" />
+          <ScalarProperty Name="TueNormalHours" ColumnName="TueNormalHours" />
+          <ScalarProperty Name="TueTotal" ColumnName="TueTotal" />
+          <ScalarProperty Name="MonDoubleHours" ColumnName="MonDoubleHours" />
+          <ScalarProperty Name="MonOTHours" ColumnName="MonOTHours" />
+          <ScalarProperty Name="MonNormalHours" ColumnName="MonNormalHours" />
+          <ScalarProperty Name="MonTotal" ColumnName="MonTotal" />
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="TimesheetID" ColumnName="TimesheetID" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Get_WeekNo" FunctionName="WMSDBModel.Store.Get_WeekNo">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WMSDBModel.Get_WeekNo_Result">
+          <ScalarProperty Name="Week" ColumnName="Week" />
+          <ScalarProperty Name="WeekNo" ColumnName="WeekNo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="Get_Years" FunctionName="WMSDBModel.Store.Get_Years" />
+    <FunctionImportMapping FunctionImportName="Get_Employees" FunctionName="WMSDBModel.Store.Get_Employees">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="WMSDBModel.Get_Employees_Result1">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Sort" ColumnName="Sort" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

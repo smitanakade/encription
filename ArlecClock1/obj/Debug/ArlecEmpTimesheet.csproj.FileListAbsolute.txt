@@ -1,0 +1,4 @@
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\bin\ArlecEmpTimesheet.pdb
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.dll
+E:\JunyProjects\ArlecEmpTimesheet\ArlecEmpTimesheet\obj\Debug\ArlecEmpTimesheet.pdb

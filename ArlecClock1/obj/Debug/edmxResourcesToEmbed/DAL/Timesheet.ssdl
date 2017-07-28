@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WMSDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="WMSDBModelStoreContainer">
+    <EntitySet Name="Classifications" EntityType="WMSDBModel.Store.Classifications" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="Employees" EntityType="WMSDBModel.Store.Employees" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="EmpTimesheets" EntityType="WMSDBModel.Store.EmpTimesheets" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <EntitySet Name="EmpTimesheetsSummary" EntityType="WMSDBModel.Store.EmpTimesheetsSummary" store:Type="Tables" Schema="dbo" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+    <AssociationSet Name="FK_Employees_Classifications" Association="WMSDBModel.Store.FK_Employees_Classifications">
+      <End Role="Classifications" EntitySet="Classifications" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmpTimesheet_Employees" Association="WMSDBModel.Store.FK_EmpTimesheet_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="EmpTimesheets" EntitySet="EmpTimesheets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EmpTimesheetsSummary_EmpTimesheets" Association="WMSDBModel.Store.FK_EmpTimesheetsSummary_EmpTimesheets">
+      <End Role="EmpTimesheets" EntitySet="EmpTimesheets" />
+      <End Role="EmpTimesheetsSummary" EntitySet="EmpTimesheetsSummary" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Classifications">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Award" Type="varchar" MaxLength="100" />
+    <Property Name="MealAllowanceAmount" Type="decimal" Scale="2" />
+    <Property Name="MealAllowanceDue" Type="decimal" Scale="2" />
+    <Property Name="MonToFriFirst2HoursRate" Type="decimal" Scale="2" />
+    <Property Name="MonToFriGraterThan2HoursRate" Type="decimal" Scale="2" />
+    <Property Name="SatFirst2Hours" Type="decimal" Scale="2" />
+    <Property Name="SatAfter2Hours" Type="decimal" Scale="2" />
+    <Property Name="SatTeaMoney" Type="varchar" MaxLength="1" />
+    <Property Name="SunAllHours" Type="decimal" Scale="2" />
+    <Property Name="SunTeaMoney" Type="varchar" MaxLength="1" />
+    <Property Name="GoodFridayorXmasRate" Type="decimal" Scale="2" />
+    <Property Name="AllOtherPubHolidays" Type="decimal" Scale="2" />
+    <Property Name="WorkingHours" Type="decimal" Scale="2" />
+    <Property Name="PayRate" Type="decimal" Scale="2" />
+    <Property Name="Active" Type="bit" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" />
+    <Property Name="HireDate" Type="datetime" />
+    <Property Name="Job" Type="varchar" MaxLength="50" />
+    <Property Name="Sex" Type="varchar" MaxLength="1" />
+    <Property Name="BirthDate" Type="datetime" />
+    <Property Name="ClassificationId" Type="int" />
+    <Property Name="IsActive" Type="int" />
+    <Property Name="IsLeadHandA" Type="int" />
+    <Property Name="IsFirstAidA" Type="int" />
+    <Property Name="SortBy" Type="int" />
+    <Property Name="ShortName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EmpTimesheets">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EmpId" Type="int" />
+    <Property Name="DateYear" Type="int" />
+    <Property Name="WeekNo" Type="int" />
+    <Property Name="MonTimeIn" Type="decimal" Scale="2" />
+    <Property Name="MonTimeOut" Type="decimal" Scale="2" />
+    <Property Name="TueTimeIn" Type="decimal" Scale="2" />
+    <Property Name="TueTimeOut" Type="decimal" Scale="2" />
+    <Property Name="WedTimeIn" Type="decimal" Scale="2" />
+    <Property Name="WedTimeOut" Type="decimal" Scale="2" />
+    <Property Name="ThuTimeIn" Type="decimal" Scale="2" />
+    <Property Name="ThuTimeOut" Type="decimal" Scale="2" />
+    <Property Name="FriTimeIn" Type="decimal" Scale="2" />
+    <Property Name="FriTimeOut" Type="decimal" Scale="2" />
+    <Property Name="SatTimeIn" Type="decimal" Scale="2" />
+    <Property Name="SatTimeOut" Type="decimal" Scale="2" />
+    <Property Name="SunTimeIn" Type="decimal" Scale="2" />
+    <Property Name="SunTimeOut" Type="decimal" Scale="2" />
+  </EntityType>
+  <EntityType Name="EmpTimesheetsSummary">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TimesheetID" Type="int" Nullable="false" />
+    <Property Name="EmpId" Type="int" Nullable="false" />
+    <Property Name="DateYear" Type="int" />
+    <Property Name="WeekNo" Type="int" />
+    <Property Name="MonTotal" Type="decimal" Scale="2" />
+    <Property Name="MonNormalHours" Type="decimal" Scale="2" />
+    <Property Name="MonOTHours" Type="decimal" Scale="2" />
+    <Property Name="MonDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="TueTotal" Type="decimal" Scale="2" />
+    <Property Name="TueNormalHours" Type="decimal" Scale="2" />
+    <Property Name="TueOTHours" Type="decimal" Scale="2" />
+    <Property Name="TueDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="WedTotal" Type="decimal" Scale="2" />
+    <Property Name="WedNormalHours" Type="decimal" Scale="2" />
+    <Property Name="WedOTHours" Type="decimal" Scale="2" />
+    <Property Name="WedDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="ThuTotal" Type="decimal" Scale="2" />
+    <Property Name="ThuNormalHours" Type="decimal" Scale="2" />
+    <Property Name="ThuOTHours" Type="decimal" Scale="2" />
+    <Property Name="ThuDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="FriTotal" Type="decimal" Scale="2" />
+    <Property Name="FriNormalHours" Type="decimal" Scale="2" />
+    <Property Name="FriOTHours" Type="decimal" Scale="2" />
+    <Property Name="FriDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="SatTotal" Type="decimal" Scale="2" />
+    <Property Name="SatNormalHours" Type="decimal" Scale="2" />
+    <Property Name="SatOTHours" Type="decimal" Scale="2" />
+    <Property Name="SatDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="SunTotal" Type="decimal" Scale="2" />
+    <Property Name="SunNormalHours" Type="decimal" Scale="2" />
+    <Property Name="SunOTHours" Type="decimal" Scale="2" />
+    <Property Name="SunDoubleHours" Type="decimal" Scale="2" />
+    <Property Name="MealAllow" Type="decimal" Scale="2" />
+    <Property Name="LeadHandAllow" Type="decimal" Scale="2" />
+    <Property Name="FirstAidAllow" Type="decimal" Scale="2" />
+  </EntityType>
+  <Association Name="FK_Employees_Classifications">
+    <End Role="Classifications" Type="WMSDBModel.Store.Classifications" Multiplicity="0..1" />
+    <End Role="Employees" Type="WMSDBModel.Store.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Classifications">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="ClassificationId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmpTimesheet_Employees">
+    <End Role="Employees" Type="WMSDBModel.Store.Employees" Multiplicity="0..1" />
+    <End Role="EmpTimesheets" Type="WMSDBModel.Store.EmpTimesheets" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmpTimesheets">
+        <PropertyRef Name="EmpId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EmpTimesheetsSummary_EmpTimesheets">
+    <End Role="EmpTimesheets" Type="WMSDBModel.Store.EmpTimesheets" Multiplicity="1" />
+    <End Role="EmpTimesheetsSummary" Type="WMSDBModel.Store.EmpTimesheetsSummary" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EmpTimesheets">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmpTimesheetsSummary">
+        <PropertyRef Name="TimesheetID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="Get_Employees" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="Get_WeekNo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Year" Type="int" Mode="In" />
+  </Function>
+  <Function Name="Get_Years" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>
